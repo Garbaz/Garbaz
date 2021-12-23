@@ -5,7 +5,6 @@
 * Languages (中文, 日本語, conlangs)
 * Mathematics
 * Neurology
-* 
 
 ## Pages
 
