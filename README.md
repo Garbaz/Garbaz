@@ -2,7 +2,7 @@
 
 * Bouldering
 * Programming (ML, graphics, programming languages)
-* Languages (中文, 日本語, conlangs)
+* Languages (Chinese, Japanese, conlangs)
 * Mathematics
 * Neurology
 
