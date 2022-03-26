@@ -8,6 +8,6 @@
 
 ## Pages
 
+* [Blog](https://garbaz.github.io/Blog/)
 * [New Language Project](https://garbaz.github.io/NewLanguageProject/)
-* [Language Learning](https://garbaz.github.io/LanguageLearning/)
 * [In-Browser Notepad](https://garbaz.github.io/inbrowser_notepad/)
