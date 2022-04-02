@@ -3,8 +3,8 @@
 * Bouldering
 * Programming (ML, graphics, programming languages)
 * Languages (Chinese, Japanese, conlangs)
+* Cognition
 * Mathematics
-* Neurology
 
 ## Pages
 
