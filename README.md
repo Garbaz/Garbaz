@@ -2,8 +2,8 @@
 
 * Bouldering
 * Programming (ML, graphics, programming languages)
-* Languages (Chinese, Japanese, conlangs)
 * Cognition
+* Languages (Chinese, Japanese, conlangs)
 * Mathematics
 
 ## Pages
