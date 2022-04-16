@@ -1,7 +1,7 @@
 ## Interests
 
 * Bouldering
-* Programming (ML, graphics, programming languages)
+* Programming (AI, graphics, programming languages)
 * Cognition
 * Languages (Chinese, Japanese, conlangs)
 * Mathematics
