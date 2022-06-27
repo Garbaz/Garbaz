@@ -5,6 +5,7 @@
 * Cognition
 * Languages (Chinese, Japanese, conlangs)
 * Mathematics
+* Psychology & Sociology
 
 ## Pages
 
