@@ -18,7 +18,3 @@
 
 * [Tumblr](https://www.tumblr.com/blog/view/garbazzz)
 * [Anilist](https://anilist.co/user/Garbaz/)
-
-<hr>
-
-_The voice recorder is your friend._
