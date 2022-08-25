@@ -4,7 +4,7 @@
 * Programming (programming languages, AI, graphics, simulation)
 * Cognition
 * Languages (Chinese, Japanese, conlangs)
-* Mathematics
+* Mathematics (category theory, type theory, number theory)
 * Sociology
 * Psychology
 
