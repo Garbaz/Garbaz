@@ -7,6 +7,7 @@
 * Mathematics (category theory, type theory, number theory)
 * Sociology
 * Psychology
+* History
 
 ## Pages
 
