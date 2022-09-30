@@ -1,6 +1,6 @@
-ʕ •ᴥ•ʔっ💜
+# ʕ •ᴥ•ʔっ💜
 
-## Interests
+### Interests
 
 * Bouldering
 * Programming (programming languages, AI, graphics, simulation)
@@ -11,13 +11,13 @@
 * Psychology
 * History
 
-## Pages
+### Pages
 
 * [Blog](https://garbaz.github.io/Blog/)
 * [New Language Project](https://garbaz.github.io/NewLanguageProject/)
 * [In-Browser Notepad](https://garbaz.github.io/inbrowser_notepad/)
 
-## Links
+### Links
 
 * [Tumblr](https://www.tumblr.com/blog/view/garbazzz)
 * [Anilist](https://anilist.co/user/Garbaz/)
