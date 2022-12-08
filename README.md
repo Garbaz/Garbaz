@@ -6,7 +6,7 @@
 * Cognition
 * Programming (AI, programming languages, graphics, simulation)
 * Languages (Chinese, Japanese, conlangs)
-* Mathematics (probability theory, category theory, type theory, number theory)
+* Mathematics (probability theory, type theory, category theory, number theory)
 * Sociology
 * History
 * Psychology
