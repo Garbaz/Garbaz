@@ -1,5 +1,7 @@
 # ʕ •ᴥ•ʔっ💜
 
+they/none/any<sup>[**?**](https://garbaz.github.io/Blog/2022/11/22/They-None-Any.html)</sup>
+
 ### Interests
 
 * Bouldering
