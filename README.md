@@ -1,6 +1,6 @@
 # ʕ •ᴥ•ʔっ💜
 
-#### they/none/any<sup>[**meaning**](https://garbaz.github.io/Blog/2022/11/22/They-None-Any.html)</sup>
+#### [they/none/any](https://garbaz.github.io/Blog/2022/11/22/They-None-Any.html)
 
 ### Interests
 
