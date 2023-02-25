@@ -31,6 +31,8 @@
 
 ### Papers & Presentations
 
+* [The Problem with ”Type in Type” and a resolution thereof](https://raw.githubusercontent.com/Garbaz/seminar-dependent-types/master/elaboration/elaboration.latex.pdf)
+* [An Implementation of Type Checking for a Dependently Typed Lambda Calculus](https://raw.githubusercontent.com/Garbaz/seminar-dependent-types/master/presentation/presentation.pdf)
 * [Approaches to Asynchronous Execution across Languages](https://raw.githubusercontent.com/Garbaz/OCamlProseminar/master/ausarbeitung/Tobias-Hoffmann-Ausarbeitung.pdf)
 * [Concurrency in OCaml](https://raw.githubusercontent.com/Garbaz/OCamlProseminar/master/presentation.pdf)
 
