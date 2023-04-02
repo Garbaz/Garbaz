@@ -29,7 +29,7 @@
 * [Minesweeper](https://github.com/papplappen/Minesweeper)
 * [Firstperson 3D Pewpew](https://github.com/Garbaz/firstperson3D_pewpew)
 
-### Papers & Presentations
+### Writings & Presentations
 
 * [The Problem with ”Type in Type” and a resolution thereof](https://raw.githubusercontent.com/Garbaz/seminar-dependent-types/master/elaboration/elaboration.latex.pdf)
 * [An Implementation of Type Checking for a Dependently Typed Lambda Calculus](https://raw.githubusercontent.com/Garbaz/seminar-dependent-types/master/presentation/presentation.pdf)
