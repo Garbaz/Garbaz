@@ -21,6 +21,7 @@
 
 ### Projects
 
+* [probprog](https://github.com/Garbaz/probprog/)
 * [Pronto Graphics](https://github.com/Garbaz/pronto-graphics)
 * [CEDICT Curses](https://github.com/Garbaz/cedict-curses)
 * [RPNFL](https://github.com/Garbaz/rpnfl)
