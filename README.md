@@ -2,14 +2,13 @@
 
 ### Interests
 
-* Bouldering
+* Artificial Intelligence
 * Cognition
-* Programming (AI, programming languages, graphics, simulation)
+* Bouldering
+* Programming (programming languages, graphics, simulation)
 * Languages (Chinese, Japanese, conlangs)
 * Mathematics (probability theory, type theory, category theory, number theory)
-* Sociology
 * History
-* Psychology
 
 ### Pages
 
