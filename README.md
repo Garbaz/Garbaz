@@ -38,5 +38,4 @@
 ### Links
 
 * [Tumblr](https://www.tumblr.com/blog/view/garbazzz)
-
-✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨💜✨
+* 
