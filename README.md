@@ -5,8 +5,8 @@
 * Artificial Intelligence
 * Cognition
 * Programming (programming languages, graphics, simulation)
-* Languages (Chinese, Japanese, conlangs)
 * Mathematics (probability theory, type theory, category theory, number theory)
+* Languages (Chinese, Japanese, conlangs)
 * History
 * Bouldering
 
