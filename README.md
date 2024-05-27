@@ -35,6 +35,6 @@
 * [Approaches to Asynchronous Execution across Languages](https://raw.githubusercontent.com/Garbaz/OCamlProseminar/master/ausarbeitung/Tobias-Hoffmann-Ausarbeitung.pdf)
 * [Concurrency in OCaml](https://raw.githubusercontent.com/Garbaz/OCamlProseminar/master/presentation.pdf)
 
-### Links
+### Socials
 
-* [Tumblr](https://www.tumblr.com/blog/view/garbazzz)
+🈳
