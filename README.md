@@ -2,6 +2,7 @@
 
 ### Interests
 
+* Rust
 * Artificial Intelligence
 * Cognition
 * Programming (programming languages, graphics, simulation)
