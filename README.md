@@ -1,5 +1,7 @@
 # ʕ •ᴥ•ʔっ💜
 
+### [CV](https://raw.githubusercontent.com/Garbaz/CV/master/CV.pdf)
+
 ### Interests
 
 * Rust
@@ -36,5 +38,3 @@
 * [An Implementation of Type Checking for a Dependently Typed Lambda Calculus](https://raw.githubusercontent.com/Garbaz/seminar-dependent-types/master/presentation/presentation.pdf)
 * [Approaches to Asynchronous Execution across Languages](https://raw.githubusercontent.com/Garbaz/OCamlProseminar/master/ausarbeitung/Tobias-Hoffmann-Ausarbeitung.pdf)
 * [Concurrency in OCaml](https://raw.githubusercontent.com/Garbaz/OCamlProseminar/master/presentation.pdf)
-
-### [CV](https://raw.githubusercontent.com/Garbaz/CV/master/CV.pdf)
