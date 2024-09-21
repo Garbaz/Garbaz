@@ -6,9 +6,10 @@
 
 * Rust
 * Psychology, Cognition, Artificial Intelligence
-* Programming (programming languages, graphics, simulation)
+* Programming Languages
+* Graphics & Simulation
 * Mathematics (probability theory, type theory, category theory, number theory)
-* Languages (Chinese, Japanese, conlangs)
+* Languages (Chinese, Japanese)
 * History, Sociology
 * Bouldering
 
