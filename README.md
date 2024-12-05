@@ -1,6 +1,6 @@
 # ʕ •ᴥ•ʔっ💜
 
-### [CV](https://raw.githubusercontent.com/Garbaz/CV/master/CV.pdf)
+### [Curriculum Vitae](https://raw.githubusercontent.com/Garbaz/CV/master/CV.pdf)
 
 ### Interests
 
