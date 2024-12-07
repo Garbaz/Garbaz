@@ -4,7 +4,7 @@
 
 ### Interests
 
-* Rust
+* Rust 🦀
 * Psychology, Cognition, Artificial Intelligence
 * Programming Languages
 * Graphics & Simulation
