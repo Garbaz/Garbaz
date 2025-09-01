@@ -5,12 +5,12 @@
 ### Interests
 
 * Rust 🦀
-* Psychology, Cognition, Artificial Intelligence
+* Cognition, Artificial Intelligence, Psychology
 * Programming Languages
-* Graphics & Simulation
-* Mathematics (probability theory, type theory, category theory, number theory)
 * Languages (Chinese, Japanese)
 * History, Sociology
+* Graphics & Simulation
+* Mathematics (probability theory, type theory, category theory, number theory)
 * Bouldering
 
 <!-- 
