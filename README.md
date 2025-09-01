@@ -9,7 +9,7 @@
 * Programming Languages
 * Languages (Chinese, Japanese)
 * History, Sociology
-* Graphics & Simulation
+* Graphics, Simulation
 * Mathematics (probability theory, type theory, category theory, number theory)
 * Bouldering
 
