@@ -1,6 +1,6 @@
 # ʕ •ᴥ•ʔっ💜
 
-### [Curriculum Vitae](https://github.com/Garbaz/CV/blob/main/tobias_hoffman_cv.pdf)
+### [Curriculum Vitae](https://github.com/Garbaz/CV/blob/main/tobias_hoffmann_cv.pdf)
 
 ### Interests
 
