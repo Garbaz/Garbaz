@@ -1,4 +1,4 @@
-# ʕ •ᴥ•ʔっ💜
+# ʕ •ᴥ•ʔっ🦦
 
 ### [Curriculum Vitae](https://github.com/Garbaz/CV/blob/main/tobias_hoffmann_cv.pdf)
 
