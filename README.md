@@ -8,7 +8,7 @@
 * Electronics (Embedded Software, FPV Drones, Meshcore, Radar) 
 * Music
 * Sports (Climbing, Parkour, Martial Arts)
-* Languages (Japanese, Chinese, Russian)
+* Languages (Chinese, Japanese, Russian)
 * Cognition, Artificial Intelligence
 * Programming Languages
 * History, Sociology
