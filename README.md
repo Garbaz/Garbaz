@@ -5,14 +5,15 @@
 ### Interests
 
 * Rust 🦀
+* Electronics (FPV Drones, Meshcore, Radar) 
+* Music
+* Sports (Climbing, Parkour, Martial Arts)
+* Languages (Japanese, Chinese, Russian)
 * Cognition, Artificial Intelligence
-* Languages (Chinese, Japanese)
 * Programming Languages
 * History, Sociology
 * Graphics, Simulation
 * Mathematics (probability theory, type theory, category theory, number theory)
-* Bouldering
-* Music
 
 <!-- 
 ### Pages
@@ -26,8 +27,9 @@
 
 * [Probabilistic Programming in Rust](https://github.com/Garbaz/probprog/)
 * [Pronto Graphics](https://github.com/Garbaz/pronto-graphics)
+* [USB Camera Recorder (Android App)](https://github.com/Garbaz/usb-camera-recorder)
+* [EdgeTX Frog 🐸 Telemetry Screen](https://github.com/Garbaz/edgetx-frog)
 * [CEDICT Curses](https://github.com/Garbaz/cedict-curses)
-* [RPNFL](https://github.com/Garbaz/rpnfl)
 * [流体](https://github.com/Garbaz/Ryuutai)
 * [Ants🐜](https://github.com/papplappen/ants_processing)
 * [Minesweeper](https://github.com/papplappen/Minesweeper)
