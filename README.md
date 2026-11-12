@@ -5,7 +5,9 @@
 ### Interests
 
 * Rust 🦀
-* Electronics (Embedded Software, FPV Drones, Meshcore, Radar) 
+* Electronics (Embedded Software, Meshcore, Radar)
+* Things that fly
+* Being outside
 * Music
 * Sports (Climbing, Parkour, Martial Arts)
 * Languages (Chinese, Japanese, Russian)
