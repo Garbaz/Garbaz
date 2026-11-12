@@ -30,6 +30,7 @@
 * [Pronto Graphics](https://github.com/Garbaz/pronto-graphics)
 * [USB Camera Recorder (Android App)](https://github.com/Garbaz/usb-camera-recorder)
 * [EdgeTX Frog 🐸 Telemetry Screen](https://github.com/Garbaz/edgetx-frog)
+* [Betaflight & co CLI tools](https://github.com/Garbaz/fpv-tools)
 * [CEDICT Curses](https://github.com/Garbaz/cedict-curses)
 * [流体](https://github.com/Garbaz/Ryuutai)
 * [Ants🐜](https://github.com/papplappen/ants_processing)
