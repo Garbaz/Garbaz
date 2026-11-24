@@ -26,7 +26,8 @@
 
 ### Projects
 
-* [Probabilistic Programming in Rust](https://github.com/Garbaz/probprog/)
+* [Probabilistic Programming in Rust](https://github.com/Garbaz/probprog)
+* [Hibedi: A full-information grid-based strategy game](https://github.com/papplappen/hibedi)
 * [Pronto Graphics](https://github.com/Garbaz/pronto-graphics)
 * [USB Camera Recorder (Android App)](https://github.com/Garbaz/usb-camera-recorder)
 * [EdgeTX Frog 🐸 Telemetry Screen](https://github.com/Garbaz/edgetx-frog)
